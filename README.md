@@ -2,7 +2,7 @@
 .Net / XSLT based Content Management System, with Ecommerce and membership facilities.
 
 ## Project Description
-Protean CMS is an extremely robust and flexible platform. Every aspect can be themed using XSLT, with a large range of content types, modules available 'out-of-the-box', as well as many high quality themes ready to go. New modules can be easily created using XForms, XSLT and .Net assemblies.
+Protean CMS is an extremely robust and flexible platform. Every aspect can be themed using XSLT, with a wide range of content types, modules available 'out-of-the-box', as well as many high quality themes ready to go. New modules can be easily created using XForms, XSLT and .Net assemblies.
 
 The CMS contains full Ecommerce and user membership functionality.
 
